@@ -2,10 +2,10 @@
 ## 👀 About Me
 - 💻 Interested in **Web Development and Data Analysis**
 - 📊 Passionate about working with data, extracting insights, and building user-friendly web applications
-- 🌱 Currently learning **JavaScript**, **SQL**, and improving my **Data Analysis skills**
+- 🌱 Currently learning **python**, **SQL**, and improving my **Data Analysis skills**
 - ⚡ Aspiring **Data Analyst & Web Developer**
 ## 🛠️ Skills
-- 💡 Programming: C++, JavaScript  
+- 💡 Programming: C++, python  
 - 📊 Data Analysis: Excel, SQL   
 - 🌐 Web Development: HTML, CSS, JavaScript  
 - 🎨 Design: Website Designing  
